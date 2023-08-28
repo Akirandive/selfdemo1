@@ -1,2 +1,3 @@
 # selfdemo
-this is the first demo repo
+this is the first demo repocd
+author :akshay Randive
